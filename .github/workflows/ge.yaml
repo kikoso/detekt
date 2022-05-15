@@ -27,4 +27,4 @@ jobs:
       - name: Build detekt
         uses: gradle/gradle-build-action@v2
         with:
-          arguments: clean build -Dscan.tag.exp4
+          arguments: clean build -Dscan.tag.exp5
